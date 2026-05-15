@@ -1,0 +1,28 @@
+Instituição: OxeTech
+Curso: Cloud Computing e Infraestrutura Inteligente (AWS, Azure, GCP)
+Professor: Bruno Cavalcante Barbosa
+Aluno: Valdson Mota Chagas
+Data: 13/05/2026
+
+Atividade: DESENHAR UMA ARQUITETURA DE SOLUÇÃO PARA CLOUD COMPUTING
+
+
+Prazo: 07 (sete) dias
+
+Aplicação
+    • Sistema de Monitoramento Veicular (Câmeras, GPS)
+Usuários – Total de usuários 14 (Quatorze)
+    • Diretoria (3)
+    • Supervisão (3)
+    • Operacional (6)
+    • TI (2)
+Operação
+    • Localização (São Paulo/Brasil)
+Banco de Dados
+    • Relational Database (RDB)
+Storage
+    • Aplicação de Storage para backup das gravações dos vídeos
+Segurança
+    • Controle de Acessos
+Custo
+    • Plano Anual em USD Dólar (EUA)
