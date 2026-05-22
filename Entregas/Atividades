@@ -6,6 +6,10 @@ Data: 13/05/2026
 
 Atividade: DESENHAR UMA ARQUITETURA DE SOLUÇÃO PARA CLOUD COMPUTING
 
+Modelo de Arquitetura
+    • PaaS – Aplicações web e APIs com menos estorço operacional
+        Porque a aplicação já existe, então preciso apenas hospedar em nuvem a aplicação já desenvonvida.
+        Atualmente a aplicação está operando localmente no servidor da Softhouse, temos a necessidade de uma hospedagem com maior disponibilidade.
 
 Prazo: 07 (sete) dias
 
@@ -26,3 +30,4 @@ Segurança
     • Controle de Acessos
 Custo
     • Plano Anual em USD Dólar (EUA)
+    
